@@ -1,6 +1,5 @@
 # Ignore all .csv files until LFS is figured out
 *.csv
-src/data/*.csv
 src/data/outputs/**/*.csv
 
 # Byte-compiled / optimized / DLL files
