@@ -1,5 +1,6 @@
 # Ignore all .csv files until LFS is figured out
 src/data/outputs/**/*.csv
+src/data/subsets/*.csv
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
